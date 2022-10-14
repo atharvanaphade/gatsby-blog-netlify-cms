@@ -37,6 +37,6 @@ The interviews were mainly focused on DSA and core subjects like OS and OOP, que
   * This round was not as good as the first round for me, but yet I was moved forward to the HR interview.
 * HR Interview
 
-  * This was a phone Interview, and the HR from SSIR called me and we just had a chat on the projects i worked on, my motivation to join SSIR and my family background and how i got into coding, etc. And i asked a few questions i had about the job location and thats it.
+  * This was a phone Interview, and the HR from SSIR called me and we just had a discussion on the projects I worked on, my motivation to join SSIR and my family background and how i got into coding, etc, and I asked a few questions about the job location and thats it.
 
     After this the college was sent a list of selected students and I was selected for the software engineer role.
