@@ -4,9 +4,9 @@ title: Samsung Semiconductor Institute of Research, Bangalore Interview
   Experience for Software Engineer
 date: 2022-10-14T05:42:56.925Z
 ---
-SSIR, Bangalore visited our campus for hiring Software Engineers and Hardware Engineers from final year batch. They were offering 6-Month intern + FTE offer. Their JD mentioned work in bluetooth, hardware and system software for hardware components, etc. This was a core electronics company but they had software roles as well in cloud, operating systems and system software. The package they were offering was 21 LPA.
+SSIR, Bangalore visited our campus for hiring Software Engineers and Hardware Engineers from final year batch. They were offering 6-Month internship + FTE offer. Their JD mentioned work in bluetooth, hardware and system software for hardware components, etc. This was a core electronics company but they had software roles as well in cloud, operating systems and system software. The package they were offering was 21 LPA.
 
-Their hiring process had 4 rounds. each was a elimination round. They were :-
+Their hiring process had 4 rounds, each one was an elimination round. They were :-
 
 * Online Coding Test
 * 1st Technical Interview
