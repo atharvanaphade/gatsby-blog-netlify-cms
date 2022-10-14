@@ -3,7 +3,7 @@ module.exports = {
     title: `Personal Blog`,
     author: {
       name: `Atharva Naphade`,
-      summary: `A Third Year Engineering student, who loves to learn new things`,
+      summary: `A Final Year Engineering student, who loves to learn new things`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
