@@ -13,7 +13,7 @@ Their hiring process had 4 rounds. each was a elimination round. They were :-
 * 2nd Technical Interview
 * HR Interview
 
-The interviews were mainly focused on DSA and core subjects, questions from my resume were not asked. The interviews were held on Knox Meeting. The contents of the rounds were as follows :-
+The interviews were mainly focused on DSA and core subjects like OS and OOP, questions from my resume were not asked. The interviews were held on Knox Meeting. The contents of the rounds were as follows :-
 
 * Online Coding Test
 
