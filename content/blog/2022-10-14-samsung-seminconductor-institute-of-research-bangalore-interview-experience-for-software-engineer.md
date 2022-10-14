@@ -18,7 +18,7 @@ The interviews were mainly focused on DSA and core subjects like OS and OOP, que
 * Online Coding Test
 
   * This test contained of three coding questions of easy-medium level and the duration was 90-120 minutes. The questions were mostly from Leetcode or were a variation of the questions. This round would be easy for you if you do competitive coding or practice DSA regularly on Leetcode.
-  * The platform they used was Aon, if you have the chance try to use the platform and give a sample test, as the compiler is a bit glitchy there sometimes. The languages allowed were C++, Java, Python and JavaScript.
+  * The platform they used was Aon. If you have the chance, try to use the platform and give a sample test, as the compiler glitches sometimes. The languages allowed were C++, Java, Python and JavaScript.
   * Everyone had different questions, so there is no point in sharing the questions in the test.
 * 1st Technical Interview
 
