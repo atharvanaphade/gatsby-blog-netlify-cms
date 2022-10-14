@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Samsung Seminconductor Institute of Research, Bangalore Interview
+title: Samsung Semiconductor Institute of Research, Bangalore Interview
   Experience for Software Engineer
 date: 2022-10-14T05:42:56.925Z
 ---
