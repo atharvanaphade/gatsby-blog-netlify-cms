@@ -29,7 +29,7 @@ The interviews were mainly focused on DSA and core subjects, questions from my r
   * This round was positive and I managed to proceed to the next round.
 * 2nd Technical Interview
 
-  * This was a particularly difficult interview for me, as the interview was focused on OS and memory management in C/C++. I would suggest reading GFG about the same. Here are some articles which you should go through :-
+  * This was a particularly difficult interview for me, as the interview was focused on OS and memory management in C/C++. I would suggest reading GFG about the same. Here are some articles which you should go through before the interview :-
 
     1. [Memory Layout of C program](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
     2. [Program Flow of a C Program](https://www.geeksforgeeks.org/how-does-a-c-program-executes/)
