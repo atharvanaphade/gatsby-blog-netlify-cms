@@ -6,18 +6,12 @@ date: 2022-10-14T05:42:56.925Z
 ---
 SSIR, Bangalore visited our campus for hiring Software Engineers and Hardware Engineers from final year batch. They were offering 6-Month intern + FTE offer. Their JD mentioned work in bluetooth, hardware and system software for hardware components, etc. This was a core electronics company but they had software roles as well in cloud, operating systems and system software. The package they were offering was 21 LPA.
 
-
-
-
-
 Their hiring process had 4 rounds. each was a elimination round. They were :-
 
 * Online Coding Test
 * 1st Technical Interview
 * 2nd Technical Interview
 * HR Interview
-
-
 
 The interviews were mainly focused on DSA and core subjects, questions from my resume were not asked. The interviews were held on Knox Meeting. The contents of the rounds were as follows :-
 
@@ -35,7 +29,7 @@ The interviews were mainly focused on DSA and core subjects, questions from my r
   * This round was positive and I managed to proceed to the next round.
 * 2nd Technical Interview
 
-  * This was a particularly difficult interview for me, as the interview was focused on OS and memory management in C/C++. I would suggest reading GFG about the same. These are some articles :-
+  * This was a particularly difficult interview for me, as the interview was focused on OS and memory management in C/C++. I would suggest reading GFG about the same. Here are some articles which you should go through :-
 
     1. [Memory Layout of C program](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
     2. [Program Flow of a C Program](https://www.geeksforgeeks.org/how-does-a-c-program-executes/)
@@ -44,7 +38,5 @@ The interviews were mainly focused on DSA and core subjects, questions from my r
 * HR Interview
 
   * This was a phone Interview, and the HR from SSIR called me and we just had a chat on the projects i worked on, my motivation to join SSIR and my family background and how i got into coding, etc. And i asked a few questions i had about the job location and thats it.
-
-
 
     After this the college was sent a list of selected students and I was selected for the software engineer role.
