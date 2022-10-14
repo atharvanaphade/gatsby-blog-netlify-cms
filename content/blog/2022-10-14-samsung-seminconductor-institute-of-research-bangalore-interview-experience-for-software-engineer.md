@@ -24,7 +24,7 @@ The interviews were mainly focused on DSA and core subjects like OS and OOP, que
 
   * This round was focused on core subjects like OOP and OS, and the interviewer focused on my knowledge of C/C++ and the memory structure that it uses.
   * She asked me questions on OOP by giving different scenarios of class and function declarations and how would the compiler handle it, and what errors might arise. She also asked me about the memory allocation that would take place in case of different types of object declarations.
-  * Then she moved on to the technologies and programming languages i've worked with, to which I answered GoLang, Java, Python and JavaScript to which the interview didn't seem to ask any questions on, which showed that they want mainly C/C++ developers and that is also probably what they work on.
+  * Then she moved on to the technologies and programming languages I've worked with, to which I answered GoLang, Java, Python and JavaScript to which the interview didn't seem to ask any questions on, which showed that they want mainly C/C++ developers and that is also probably what they work on.
   * After this she moved on to DSA, she asked the approach to solve [Number of Islands](https://leetcode.com/problems/number-of-islands/). I gave the sub-optimal as well as optimal approach and she seemed happy with the answer. Then she asked questions about my favourite Data Structure (here i would suggest not to say DS like Graphs, Trees unless you are very confident about them), to which I answered Linked List xD. I was asked the time complexity to insert, modify and search the LL. Although these questions are easy to answer but the way in which you answer makes a difference, I explained on every step how I reached the conclusion about the time complexity, memory required etc.
   * This round was positive and I managed to proceed to the next round.
 * 2nd Technical Interview
@@ -37,6 +37,6 @@ The interviews were mainly focused on DSA and core subjects like OS and OOP, que
   * This round was not as good as the first round for me, but yet I was moved forward to the HR interview.
 * HR Interview
 
-  * This was a phone Interview, and the HR from SSIR called me and we just had a discussion on the projects I worked on, my motivation to join SSIR and my family background and how i got into coding, etc, and I asked a few questions about the job location and thats it.
+  * This was a phone Interview, and the HR from SSIR called me and we just had a discussion on the projects I‘ve worked on, my motivation to join SSIR and my family background and how i got into coding, etc, and I asked a few questions about the job location and thats it.
 
     After this the college was sent a list of selected students and I was selected for the software engineer role.
