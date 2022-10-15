@@ -3,7 +3,7 @@ layout: blog
 title: Internship Experience at AI4Bharat, IIT Madras
 date: 2022-10-15T05:59:01.088Z
 ---
-![AI4Bharat](https://opengraph.githubassets.com/7846a11ae6ad89b8d431988db48f2e8eb12cb403c41d2c5cb8b961a79ef236b0/AI4Bharat/Indic-OCR "AI4Bharat")
+![AI4Bharat](https://pbs.twimg.com/media/FYQc9IuagAAH10J?format=jpg&name=large "AI4Bharat")
 
 **Introduction**
 
