@@ -3,13 +3,11 @@ layout: blog
 title: Internship Experience at AI4Bharat, IIT Madras
 date: 2022-10-15T05:59:01.088Z
 ---
-**Introduction**
-
 
 
 ![AI4Bharat](https://thumbnails.huggingface.co/social-thumbnails/ai4bharat.png "AI4Bharat")
 
-
+**Introduction**
 
 [AI4Bharat](https://ai4bharat.org/) is a team of researchers at IIT, Madras, who focus on Natural Language Processing and Artificial Intelligence. The initiative is funded by companies like Google and Microsoft as well as the Indian Government, and have individuals like professors at IITs and researchers working at Microsoft. They have made several open-source tools which assist in NLP for translating content from English to 22 different Indian languages, such as ML Models, Typing tools and Annotation Pipeline platforms. To make such tools also require Language Experts or Linguists, and such people are also present at AI4Bharat. Recently, they have launched an annotation tool called Shoonya, an annotation platform which assists in labelling data to further train ML Models. The platform will have over 2000 annotators who are language experts labelling different types of data ranging from simple text to rich data like audio files, video files etc. The launch was held in the Nilekani Center at AI4Bharat at the IIT Madras campus on 28th July 2022. 
 
@@ -72,8 +70,6 @@ Where :
 This gave us an estimate of how much compute is required for the platform while being used and we made a cost estimate using that. The cloud provider we decided on was Microsoft Azure, and we used kubernetes and a microservice development and deployment architecture, although our application was more of a monolith, it helped us scale the performance by using microservices. 
 
 We had three services initially, the backend, frontend and the database. Before using kubernetes we had thought of a serverless option such as Dokku and KNative which would eliminate the usage of servers and the upscaling of the platform would be easier, but it took away the control we needed over the deployment setup. Kubernetes enabled autoscaling and saved on the resources used. We used Azure Kubernetes Service to deploy the platform.
-
-
 
 **Conclusion**
 
