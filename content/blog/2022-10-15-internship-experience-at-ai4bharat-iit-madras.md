@@ -3,9 +3,7 @@ layout: blog
 title: Internship Experience at AI4Bharat, IIT Madras
 date: 2022-10-15T05:59:01.088Z
 ---
-
-
-![AI4Bharat](https://thumbnails.huggingface.co/social-thumbnails/ai4bharat.png "AI4Bharat")
+![AI4Bharat](https://res.cloudinary.com/ai4bharat/image/upload/v1658214899/FlyerShort_paapza.png "AI4Bharat")
 
 **Introduction**
 
