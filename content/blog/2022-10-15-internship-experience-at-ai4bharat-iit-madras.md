@@ -71,4 +71,4 @@ We had three services initially, the backend, frontend and the database. Before 
 
 **Conclusion**
 
-I had a wonderful experience at the internship, although it was remote I would have loved to visit the IIT Madras campus. I also got to learn many things in the internship and will help me in my future endeavours.
+I had a wonderful experience at the internship, although it was remote I would have loved to visit the IIT Madras campus. I also got to learn many things in the internship, and got to work alongside some really smart people.
